@@ -1,5 +1,5 @@
 {
-  "name": "jcb-bank-report-skills",
+  "name": "ts-skills",
   "owner": {
     "name": "ko.momose",
     "email": "ko.momose@treasure-data.com"
@@ -8,7 +8,7 @@
     {
       "name": "bank-report",
       "description": "JCB ASEANイシュアー向け銀行提案レポート自動生成スキル",
-      "source": "./bank-report",
+      "source": "./",
       "skills": [
         "./bank-report"
       ]
