@@ -1,0 +1,17 @@
+{
+  "name": "jcb-bank-report-skills",
+  "owner": {
+    "name": "ko.momose",
+    "email": "ko.momose@treasure-data.com"
+  },
+  "plugins": [
+    {
+      "name": "bank-report",
+      "description": "JCB ASEANイシュアー向け銀行提案レポート自動生成スキル",
+      "source": "./bank-report",
+      "skills": [
+        "./bank-report"
+      ]
+    }
+  ]
+}
